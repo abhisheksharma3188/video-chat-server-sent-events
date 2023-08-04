@@ -8,4 +8,4 @@ messages_table with auto increment s_no
 
 | s_no | message | room_name | message_timestamp |
 
-Do not refresh video chat page else it may not work. always close and open again.
+Do not refresh video chat page else it may not work, always close and open again.
